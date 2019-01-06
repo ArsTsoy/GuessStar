@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GuessStar2</string>
+    <string name="star_picture">star\'s picture</string>
+    <string name="name_of_star">name of star</string>
+</resources>
